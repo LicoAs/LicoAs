@@ -1,23 +1,21 @@
-# Hi, I'm Ricardo Aschero 👋
+Hi, I'm Ricardo Aschero 👋
 
 I'm a Spanish-English interpreter and a developer working on personal projects.
 
-Currently, I'm building a personal application where I'm exploring **JavaScript, HTML, Python, and AI**.
+🛠️ Technologies & Tools
+JavaScript
+HTML
+Python
+AI
+🚀 Currently working on
 
-### 🛠️ Technologies & Tools
+Whisker — an AI-powered real-time transcription app designed specifically for interpreters.
 
-* JavaScript
-* HTML
-* Python
-* AI
+It aims to replace the traditional notebook used for taking notes during interpreting sessions, while keeping conversation data private by processing it locally on the user's device.
 
-### 🚀 Currently working on
+I'm building Whisker with Python, JavaScript, HTML, and AI, with a focus on real-time audio processing, speech recognition, and local AI processing.
 
-Whisker — an AI-powered real-time transcription app designed specifically for interpreters. It aims to replace the traditional notebook used for taking notes during interpreting sessions, while keeping the conversation data private by processing it locally on the user's device.
-
-I'm building it with Python, JavaScript, HTML, and AI, with a focus on real-time audio processing, speech recognition, and local AI processing.
-
-### 📫 Contact
+📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/ricardo-aschero-b4438a21/)
 
