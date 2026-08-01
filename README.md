@@ -13,7 +13,9 @@ Currently, I'm building a personal application where I'm exploring **JavaScript,
 
 ### 🚀 Currently working on
 
-A personal application focused on exploring how **web development, Python, and AI** can work together.
+Whisker — an AI-powered real-time transcription app designed specifically for interpreters. It aims to replace the traditional notebook used for taking notes during interpreting sessions, while keeping the conversation data private by processing it locally on the user's device.
+
+I'm building it with Python, JavaScript, HTML, and AI, with a focus on real-time audio processing, speech recognition, and local AI processing.
 
 ### 📫 Contact
 
