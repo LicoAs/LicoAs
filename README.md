@@ -19,7 +19,7 @@ I'm building Whisker with **Python, JavaScript, HTML, and AI**, with a focus on 
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/ricardo-aschero-b4438a21/)
+[LinkedIn](www.linkedin.com/in/ricardo-aschero-b4438a21a)
 
 
 <!---
